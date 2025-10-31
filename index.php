@@ -4,6 +4,7 @@
 // accessing the application at "http://localhost:8888/php-todo-ex/", then
 // BASE_URL should be "/php-todo-ex/". If you are accessing the application at
 // "http://localhost:8888", then BASE_URL should be "/".
+// COUCOU!
 define('BASE_URL', '/php-todo-ex/');
 
 // Database connection parameters.
